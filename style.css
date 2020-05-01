@@ -1,0 +1,247 @@
+.top{
+    background-color: #316DC3;
+}
+.Logo{
+    color: white;
+    margin: 0PX 20px;
+}
+p{
+    margin: 0PX 30px;
+    color: white;
+    display: inline-block;
+}
+button{
+    position: relative;
+    display: inline-block;
+    border-radius: 5px;
+    margin: 15px;
+    padding: 7px;
+    left: 10px;
+    background-color:white;
+    border: none;
+    cursor: pointer;
+     
+}
+
+
+/* Dropdown Button */
+.dropbtn {
+    background-color: #F7F8FA;
+    color: black;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    border-radius: 15px;
+    
+  }
+  .dropbtn:hover{
+    background-color: yellow;
+  }
+    
+
+  
+  /* The container <div> - needed to position the dropdown content */
+  .dropdown {
+    position: relative;
+    display: inline-block;
+    top: 10px;
+    bottom: 40px;
+   
+  }
+  
+  /* Dropdown Content (Hidden by Default) */
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  /* Links inside the dropdown */
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  /* Change color of dropdown links on hover */
+  .dropdown-content a:hover {background-color: #ddd;}
+  
+  /* Show the dropdown menu on hover */
+  .dropdown:hover .dropdown-content {display: block;}
+  
+  /* Change the background color of the dropdown button when the dropdown content is shown */
+  .dropdown:hover .dropbtn {background-color: #F7F8FA;}
+
+
+  
+  .carousel-item img{
+    margin: 0px auto;
+    Height:400px;
+    Width:100%;
+    
+  }
+  marquee{
+    background-color: #316DC3;
+  }
+  h1{
+    text-align: center;
+    color: #316DC3;
+  }
+ 
+ .Intro{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #F7F8FA;
+ }
+ .line1{
+   position: relative;
+   border: 1px solid #427900;
+   height: 0px;
+   width: 50px;
+   left: 580px;
+  
+ }
+ .line2{
+   position: relative;
+   border: 1px solid #427900;
+   height: 0px;
+   width: 50px;
+   left: 680px;
+   
+ }
+ p{
+   
+   color: black;
+   
+ }
+ .Counter{
+   
+   float: left;
+   background-color: #316DC3;
+   width: 325px;
+ }
+ .Counter>p{
+   color: white;
+ }
+ span{
+  color: #00FF00;
+}
+
+.wearedoing1{
+ 
+  margin: 20px 20px 20px 10px;
+  display: inline-block;
+  background-color: white;
+  width: 325px;
+  box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.16);
+}
+.wearedoing2{
+  margin-top: 60px;
+  margin: 20px 20px 20px 10px;
+  display: inline-block;  
+  background-color: white;
+  width: 325px;
+  box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.16);
+
+}
+h3{
+  color: #316DC3;
+  padding-left: 60px;
+}
+.Mission1{
+  background-color: #f7f8fa;
+    margin: 10px;
+    width: 300px;
+    right: 60px;
+    text-align: center;
+    box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.16);
+    justify-content: space-around;
+    display: inline-block;
+}
+.Mission2{
+  background-color: #f7f8fa;
+    margin: 10px;
+    width: 300px;
+    height: 70px;
+    text-align: center;
+    box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.16);
+    justify-content: space-around;
+    display: inline-block;
+}
+.upcoming{
+  position: relative;
+  left: 855px;
+  bottom: 290px;
+}
+.Gallery{
+  text-align: center;
+}
+ footer{
+  color: #9C9D9E;
+  background-color: #25272E;
+}
+.address{
+  display: inline-block;
+}
+.link2{
+  position: relative;
+  bottom: 160px;
+  display: inline-block;
+  font-weight: bold;
+  color: white;
+  left: 50px;
+}
+.Connect{
+  position: relative;
+  bottom: 130px;
+  display: inline-block;
+  font-weight: bold;
+  left: 150px;
+  color: white;
+}
+.Logo2{
+  color: white;
+    margin: 0PX 15px;
+    border-radius: 5px;
+    padding: 5px;
+    
+}
+.line9{
+  position: relative;
+  border: 1px solid #417800;
+  height: 0px;
+  width: 50px;
+  top: 17px;
+  
+  
+}
+hr{
+  background-color: #444444;
+    box-sizing: content-box;
+    height: 0;
+    width: 350px;
+    overflow: visible;
+}
+.right{
+  position: relative;
+  background-color: #316DC3;
+  font-size: 15px;
+}
+
+
+
+.Connect .fa{
+  border-radius: 50%;
+  background-color: #316DC3;
+  padding: 7px;
+}
+
+
+
+
+
